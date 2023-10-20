@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=SuMin Lee&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=SuMin%20Lee&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
 ### Language
 
